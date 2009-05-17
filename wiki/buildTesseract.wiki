@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels build,tesseract
+
 Bu bette qandaq qilip tesseract ocr matorini chüshürüsh we uni kompayillash sözlindu.
 = Qisqiche Chüshenche =
 <a href="http://code.google.com/p/tesseract-ocr/">*Tesseract ocr*</a> 1995 yillarda dunyadiki eng yaxshi üch ocr matorining birsi bolghan bolup u eslide HP tejirbixanisida tetqiq qilip yasap chiqilghan. 1995 yildin 2006 yilghiche asasen dégüdek qol tegmigen. 2006 yilgha kelgende HP bu matorni ochuq kod jem'iytige teghdim qilghan. shuningdin bashlap hazirghiche bu mator google tejirbixanisidikilerning dawamliq yaxshilishida bolup kéliwatidu.
